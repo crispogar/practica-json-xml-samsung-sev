@@ -1,0 +1,158 @@
+{
+    "supermercados": [
+        {
+            "nombre": "Ahorramas",
+            "direccion": "Calle Gabriela Mistral 1, 28523 Rivas-Vaciamadrid, Madrid",
+            "geolocalizacion": {
+                "latitud": "40.38125874678349",
+                "longitud": "-3.5325030575210246"
+            },
+            "productos":[
+                {
+                    "nombre": "Arroz integral",
+                    "oferta": true,
+                    "descripcionOferta": "2x1",
+                    "periodioOferta": {
+                        "desde": "2023-05-05",
+                        "hasta": "2023-05-12"
+                    },
+                    "unidadesAdquiridas": "2",
+                    "medida": "kilos",
+                    "cantidadProducto": "1",
+                    "precioUnidad": "1.7€",
+                    "precioMedida": "1.7€",
+                    "productoHabitual": true,
+                    "productoLista": true
+                },
+                {
+                    "nombre": "Hummus",
+                    "oferta": false,
+                    "unidadesAdquiridas": "1",
+                    "medida": "gramos",
+                    "cantidadProducto": "200",
+                    "precioUnidad": "1.19€",
+                    "precioMedida": "0.00595",
+                    "productoHabitual": false,
+                    "productoLista": true
+                },
+                {
+                    "nombre": "Leche de avena Yosoy",
+                    "oferta": true,
+                    "descripcionOferta": "3x2",
+                    "periodioOferta": {
+                        "desde": "2023-05-05",
+                        "hasta": "2023-05-12"
+                    },
+                    "unidadesAdquiridas": "6",
+                    "medida": "litros",
+                    "cantidadProducto": "1",
+                    "precioUnidad": "1.65€",
+                    "precioMedida": "1.65",
+                    "productoHabitual": true,
+                    "productoLista": true
+                }
+            ]
+        },
+        {
+            "nombre": "Mercadona",
+            "direccion": "Calle Loco Rico 1, 28523 Rivas-Vaciamadrid, Madrid",
+            "geolocalizacion": {
+                "latitud": "40.3766168250731",
+                "longitud": "-3.533554305716795"
+            },
+            "productos":[
+                {
+                    "nombre": "Guacamole",
+                    "oferta": false,
+                    "unidadesAdquiridas": "3",
+                    "medida": "gramos",
+                    "cantidadProducto": "500",
+                    "precioUnidad": "3.5€",
+                    "precioMedida": "0.007",
+                    "productoHabitual": false,
+                    "productoLista": false
+                },
+                {
+                    "nombre": "Sazonador de fajitas",
+                    "oferta": false,
+                    "unidadesAdquiridas": "1",
+                    "medida": "gramos",
+                    "cantidadProducto": "30",
+                    "precioUnidad": "0.79€",
+                    "precioMedida": "0.03",
+                    "productoHabitual": false,
+                    "productoLista": true
+                },
+                {
+                    "nombre": "Allioli",
+                    "oferta": true,
+                    "descripcionOferta": "10% segunda unidad",
+                    "periodoOferta": {
+                        "desde": "2023-05-05",
+                        "hasta": "2023-05-12"
+                    },
+                    "unidadesAdquiridas": "2",
+                    "medida": "mililitros",
+                    "cantidadProducto": "200",
+                    "precioUnidad": "1.3€",
+                    "precioMedida": "0.0065",
+                    "productoHabitual": true,
+                    "productoLista": true
+                }
+            ]
+        },
+        {
+            "nombre": "Lidl",
+            "direccion": "Calle Marie Curie 2, 28529 Rivas-Vaciamadrid, Madrid",
+            "geolocalizacion": {
+                "latitud": "40.34041183800186",
+                "longitud": "-3.5262848056502443"
+            },
+            "productos":[
+                {
+                    "nombre": "Aceitunas rellenas de anchoa",
+                    "oferta": true,
+                    "descripcionOferta": "20% de descuento",
+                    "periodoOferta": {
+                        "desde": "2023-05-05",
+                        "hasta": "2023-05-12"
+                    },
+                    "unidadesAdquiridas": "2",
+                    "medida": "gramos",
+                    "cantidadProducto": "150",
+                    "precioUnidad": "0.95",
+                    "precioMedida": "0.0063",
+                    "productoHabitual": false,
+                    "productoLista": true
+                },
+                {
+                    "nombre": "Masa de hojaldre",
+                    "oferta": false,
+                    "unidadesAdquiridas": "1",
+                    "medida": "gramos",
+                    "cantidadProducto": "275",
+                    "precioUnidad": "0.85€",
+                    "precioMedida": "0.003",
+                    "productoHabitual": false,
+                    "productoLista": false
+                },
+                {
+                    "nombre": "Zumo de melocotón y uva",
+                    "oferta": true,
+                    "descripcionOferta": "2x1",
+                    "periodoOferta": {
+                        "desde": "2023-05-05",
+                        "hasta": "2023-05-12"
+                    },
+                    "unidadesAdquiridas": "2",
+                    "medida": "litros",
+                    "cantidadProducto": "1.5",
+                    "precioUnidad": "1.39€",
+                    "precioMedida": "0.93",
+                    "productoHabitual": true,
+                    "productoLista": true
+                }
+            ]
+        }
+    ]
+}
